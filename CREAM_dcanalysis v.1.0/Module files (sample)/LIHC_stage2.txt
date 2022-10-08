@@ -1,0 +1,315 @@
+Pathway	Gene	Correlation
+MAPK signaling pathway	RAC3	1
+MAPK signaling pathway	NFATC1	1
+MAPK signaling pathway	PDGFB	1
+MAPK signaling pathway	PDGFD	1
+MAPK signaling pathway	PDGFRB	1
+MAPK signaling pathway	CRK	1
+MAPK signaling pathway	KDR	1
+MAPK signaling pathway	ARRB1	1
+MAPK signaling pathway	MAP3K12	1
+MAPK signaling pathway	PGF	1
+MAPK signaling pathway	HSPA2	1
+MAPK signaling pathway	KIT	1
+MAPK signaling pathway	CACNA1C	1
+MAPK signaling pathway	CACNA2D1	1
+MAPK signaling pathway	CACNA2D2	1
+MAPK signaling pathway	MEF2C	1
+MAPK signaling pathway	FLNA	1
+MAPK signaling pathway	FLT1	1
+MAPK signaling pathway	FLT4	1
+MAPK signaling pathway	TEK	1
+MAPK signaling pathway	VEGFC	1
+Ras signaling pathway	GNG11	1
+Ras signaling pathway	GNG2	1
+Ras signaling pathway	RAC3	1
+Ras signaling pathway	ETS1	1
+Ras signaling pathway	RAPGEF5	1
+Ras signaling pathway	PDGFB	1
+Ras signaling pathway	PDGFD	1
+Ras signaling pathway	PDGFRB	1
+Ras signaling pathway	KDR	1
+Ras signaling pathway	FLT1	1
+Ras signaling pathway	FLT4	1
+Ras signaling pathway	TEK	1
+Ras signaling pathway	VEGFC	1
+Ras signaling pathway	PGF	1
+Ras signaling pathway	KIT	1
+Rap1 signaling pathway	THBS1	1
+Rap1 signaling pathway	APBB1IP	1
+Rap1 signaling pathway	RGS14	1
+Rap1 signaling pathway	RAC3	1
+Rap1 signaling pathway	ARAP3	1
+Rap1 signaling pathway	RAPGEF3	1
+Rap1 signaling pathway	RAPGEF5	1
+Rap1 signaling pathway	PDGFB	1
+Rap1 signaling pathway	PDGFD	1
+Rap1 signaling pathway	PDGFRB	1
+Rap1 signaling pathway	F2R	1
+Rap1 signaling pathway	CRK	1
+Rap1 signaling pathway	KDR	1
+Rap1 signaling pathway	FLT1	1
+Rap1 signaling pathway	FLT4	1
+Rap1 signaling pathway	TEK	1
+Rap1 signaling pathway	VEGFC	1
+Rap1 signaling pathway	ADCY3	1
+Rap1 signaling pathway	ADCY4	1
+Rap1 signaling pathway	ADCY5	1
+Rap1 signaling pathway	PGF	1
+Rap1 signaling pathway	KIT	1
+cAMP signaling pathway	GNAS	1
+cAMP signaling pathway	CACNA1C	1
+cAMP signaling pathway	RHOA	1
+cAMP signaling pathway	GABBR1	1
+cAMP signaling pathway	ATP2A1	1
+cAMP signaling pathway	AKT1	1
+cAMP signaling pathway	AKT3	1
+cAMP signaling pathway	PDE3A	1
+cAMP signaling pathway	PDE4A	1
+cAMP signaling pathway	PPP1CB	1
+cAMP signaling pathway	GRIN2D	1
+cAMP signaling pathway	PLCE1	1
+cAMP signaling pathway	CREB5	1
+cAMP signaling pathway	VAV3	1
+cAMP signaling pathway	ADCY3	1
+cAMP signaling pathway	FOS	1
+cAMP signaling pathway	SLC9A1	1
+cAMP signaling pathway	GNAI2	1
+Cell adhesion molecules	ITGA4	1
+Cell adhesion molecules	MADCAM1	1
+Cell adhesion molecules	ITGAL	1
+Cell adhesion molecules	ICAM2	1
+Cell adhesion molecules	ITGB2	1
+Cell adhesion molecules	CD2	1
+Cell adhesion molecules	PECAM1	1
+Cell adhesion molecules	CD226	1
+Cell adhesion molecules	PTPRC	1
+Cell adhesion molecules	CD274	1
+Cell adhesion molecules	CD28	1
+Cell adhesion molecules	SELL	1
+Cell adhesion molecules	SELPLG	1
+Cell adhesion molecules	TIGIT	1
+Cell adhesion molecules	CD4	1
+Cell adhesion molecules	VCAM1	1
+Cell adhesion molecules	JAM2	1
+Cell adhesion molecules	VCAN	1
+Cell adhesion molecules	JAM3	1
+Cell adhesion molecules	CD6	1
+Cell adhesion molecules	CD86	1
+Cell adhesion molecules	CD8A	1
+Cell adhesion molecules	GLG1	1
+Cell adhesion molecules	PDCD1LG2	1
+Cell adhesion molecules	SIGLEC1	1
+Cell adhesion molecules	SPN	1
+Cell adhesion molecules	HLA-DMB	1
+Cell adhesion molecules	HLA-DOA	1
+Cell adhesion molecules	HLA-DPB1	1
+Cell adhesion molecules	HLA-DQA1	1
+Cell adhesion molecules	HLA-DQB1	1
+Cell adhesion molecules	HLA-DRA	1
+Cell adhesion molecules	HLA-DRB5	1
+Cell adhesion molecules	SDC3	1
+NOD-like receptor signaling pathway	BIRC3	1
+NOD-like receptor signaling pathway	IFI16	1
+NOD-like receptor signaling pathway	CYBB	1
+NOD-like receptor signaling pathway	MYD88	1
+NOD-like receptor signaling pathway	TNFAIP3	1
+NOD-like receptor signaling pathway	OAS1	1
+NOD-like receptor signaling pathway	OAS2	1
+NOD-like receptor signaling pathway	OAS3	1
+NOD-like receptor signaling pathway	CARD6	1
+NOD-like receptor signaling pathway	CASP1	1
+NOD-like receptor signaling pathway	IKBKB	1
+NOD-like receptor signaling pathway	CASP4	1
+NOD-like receptor signaling pathway	GBP1	1
+NOD-like receptor signaling pathway	GBP2	1
+NOD-like receptor signaling pathway	STAT1	1
+NOD-like receptor signaling pathway	GBP3	1
+NOD-like receptor signaling pathway	STAT2	1
+NOD-like receptor signaling pathway	GBP4	1
+NOD-like receptor signaling pathway	GBP5	1
+NOD-like receptor signaling pathway	IL18	1
+NOD-like receptor signaling pathway	PLCB2	1
+NOD-like receptor signaling pathway	NOD2	1
+NOD-like receptor signaling pathway	PYCARD	1
+NOD-like receptor signaling pathway	CCL5	1
+NOD-like receptor signaling pathway	IRAK4	1
+NOD-like receptor signaling pathway	CTSB	1
+Natural killer cell mediated cytotoxicity	HCST	1
+Natural killer cell mediated cytotoxicity	LCP2	1
+Natural killer cell mediated cytotoxicity	PTK2B	1
+Natural killer cell mediated cytotoxicity	ITGAL	1
+Natural killer cell mediated cytotoxicity	ICAM2	1
+Natural killer cell mediated cytotoxicity	ITGB2	1
+Natural killer cell mediated cytotoxicity	PTPN6	1
+Natural killer cell mediated cytotoxicity	KLRD1	1
+Natural killer cell mediated cytotoxicity	CD247	1
+Natural killer cell mediated cytotoxicity	PPP3CC	1
+Natural killer cell mediated cytotoxicity	RAC2	1
+Natural killer cell mediated cytotoxicity	ZAP70	1
+Natural killer cell mediated cytotoxicity	CD48	1
+Natural killer cell mediated cytotoxicity	VAV1	1
+Natural killer cell mediated cytotoxicity	TYROBP	1
+Natural killer cell mediated cytotoxicity	PIK3CD	1
+Natural killer cell mediated cytotoxicity	PRF1	1
+Natural killer cell mediated cytotoxicity	FCER1G	1
+Natural killer cell mediated cytotoxicity	GZMB	1
+Natural killer cell mediated cytotoxicity	FCGR3A	1
+Natural killer cell mediated cytotoxicity	PRKCB	1
+Natural killer cell mediated cytotoxicity	SYK	1
+Natural killer cell mediated cytotoxicity	LCK	1
+Th17 cell differentiation	TBX21	1
+Th17 cell differentiation	IL27RA	1
+Th17 cell differentiation	IL2RB	1
+Th17 cell differentiation	IL2RG	1
+Th17 cell differentiation	CD247	1
+Th17 cell differentiation	PPP3CC	1
+Th17 cell differentiation	CD3D	1
+Th17 cell differentiation	CD3E	1
+Th17 cell differentiation	CD4	1
+Th17 cell differentiation	ZAP70	1
+Th17 cell differentiation	JAK2	1
+Th17 cell differentiation	JAK3	1
+Th17 cell differentiation	HLA-DMB	1
+Th17 cell differentiation	HLA-DOA	1
+Th17 cell differentiation	TGFB1	1
+Th17 cell differentiation	HLA-DPB1	1
+Th17 cell differentiation	PRKCQ	1
+Th17 cell differentiation	HLA-DQA1	1
+Th17 cell differentiation	FOXP3	1
+Th17 cell differentiation	HLA-DQB1	1
+Th17 cell differentiation	HLA-DRA	1
+Th17 cell differentiation	HLA-DRB5	1
+Th17 cell differentiation	IL12RB1	1
+Th17 cell differentiation	STAT5A	1
+Th17 cell differentiation	LCK	1
+Leukocyte transendothelial migration	RASSF5	1
+Leukocyte transendothelial migration	PTK2B	1
+Leukocyte transendothelial migration	ITGA4	1
+Leukocyte transendothelial migration	MMP9	1
+Leukocyte transendothelial migration	ITGAL	1
+Leukocyte transendothelial migration	CXCL12	1
+Leukocyte transendothelial migration	ITGB2	1
+Leukocyte transendothelial migration	CXCR4	1
+Leukocyte transendothelial migration	PECAM1	1
+Leukocyte transendothelial migration	ITK	1
+Leukocyte transendothelial migration	TXK	1
+Leukocyte transendothelial migration	RAC2	1
+Leukocyte transendothelial migration	CYBA	1
+Leukocyte transendothelial migration	CYBB	1
+Leukocyte transendothelial migration	NCF1	1
+Leukocyte transendothelial migration	NCF2	1
+Leukocyte transendothelial migration	NCF4	1
+Leukocyte transendothelial migration	RHOH	1
+Leukocyte transendothelial migration	VAV1	1
+Leukocyte transendothelial migration	VCAM1	1
+Leukocyte transendothelial migration	JAM2	1
+Leukocyte transendothelial migration	JAM3	1
+Leukocyte transendothelial migration	PIK3CD	1
+Leukocyte transendothelial migration	PRKCB	1
+Leukocyte transendothelial migration	SIPA1	1
+Chemokine signaling pathway	CCR1	1
+Chemokine signaling pathway	CCR5	1
+Chemokine signaling pathway	CCR7	1
+Chemokine signaling pathway	GNB4	1
+Chemokine signaling pathway	GNG2	1
+Chemokine signaling pathway	WAS	1
+Chemokine signaling pathway	GNGT2	1
+Chemokine signaling pathway	CXCL12	1
+Chemokine signaling pathway	CXCL9	1
+Chemokine signaling pathway	CXCR3	1
+Chemokine signaling pathway	CXCR4	1
+Chemokine signaling pathway	ITK	1
+Chemokine signaling pathway	RAC2	1
+Chemokine signaling pathway	JAK2	1
+Chemokine signaling pathway	JAK3	1
+Chemokine signaling pathway	PIK3CD	1
+Chemokine signaling pathway	PIK3R5	1
+Chemokine signaling pathway	PIK3R6	1
+Chemokine signaling pathway	RASGRP2	1
+Chemokine signaling pathway	PLCB2	1
+Chemokine signaling pathway	PTK2B	1
+Chemokine signaling pathway	FGR	1
+Chemokine signaling pathway	DOCK2	1
+Chemokine signaling pathway	NCF1	1
+Chemokine signaling pathway	VAV1	1
+Chemokine signaling pathway	PRKCB	1
+Chemokine signaling pathway	CCL2	1
+Chemokine signaling pathway	CCL21	1
+Chemokine signaling pathway	CCL3	1
+Chemokine signaling pathway	CCL4	1
+Chemokine signaling pathway	CCL5	1
+Chemokine signaling pathway	CCL8	1
+Chemokine signaling pathway	HCK	1
+Chemokine signaling pathway	GNG11	1
+Chemokine signaling pathway	GNG2	1
+Chemokine signaling pathway	CX3CL1	1
+Chemokine signaling pathway	RAC3	1
+Chemokine signaling pathway	GRK5	1
+Chemokine signaling pathway	CRK	1
+Chemokine signaling pathway	ARRB1	1
+Chemokine signaling pathway	PREX1	1
+Chemokine signaling pathway	ADCY3	1
+Chemokine signaling pathway	ADCY4	1
+Chemokine signaling pathway	ADCY5	1
+Chemokine signaling pathway	CCL2	1
+Axon guidance	EPHA2	1
+Axon guidance	SRGAP3	1
+Axon guidance	NEO1	1
+Axon guidance	BOC	1
+Axon guidance	RHOA	1
+Axon guidance	RHOD	1
+Axon guidance	SEMA6B	1
+Axon guidance	UNC5B	1
+Axon guidance	UNC5C	1
+Axon guidance	ABL1	1
+Axon guidance	WNT5B	1
+Axon guidance	PLCG1	1
+Axon guidance	PPP3CA	1
+Axon guidance	NCK2	1
+Axon guidance	LIMK1	1
+Axon guidance	DPYSL2	1
+Axon guidance	PLXNA1	1
+Axon guidance	GNAI2	1
+Pathways in cancer	COL4A1	1
+Pathways in cancer	COL4A2	1
+Pathways in cancer	COL4A4	1
+Pathways in cancer	HEYL	1
+Pathways in cancer	ETS1	1
+Pathways in cancer	RUNX1T1	1
+Pathways in cancer	F2R	1
+Pathways in cancer	CRK	1
+Pathways in cancer	NOTCH1	1
+Pathways in cancer	NOTCH3	1
+Pathways in cancer	NOTCH4	1
+Pathways in cancer	ADCY3	1
+Pathways in cancer	ADCY4	1
+Pathways in cancer	ADCY5	1
+Pathways in cancer	DAPK1	1
+Pathways in cancer	IL3RA	1
+Pathways in cancer	FLT4	1
+Pathways in cancer	VEGFC	1
+Pathways in cancer	ITGA3	1
+Pathways in cancer	MMP2	1
+Pathways in cancer	FZD8	1
+Pathways in cancer	RAC3	1
+Pathways in cancer	JAG1	1
+Pathways in cancer	JAG2	1
+Pathways in cancer	DLL4	1
+Pathways in cancer	PDGFB	1
+Pathways in cancer	PDGFRB	1
+Pathways in cancer	PGF	1
+Pathways in cancer	KIT	1
+Pathways in cancer	GNG11	1
+Pathways in cancer	GNG2	1
+Pathways in cancer	EDN1	1
+Pathways in cancer	EDNRA	1
+Pathways in cancer	EDNRB	1
+Pathways in cancer	LAMA2	1
+Pathways in cancer	LAMA4	1
+Pathways in cancer	LAMB1	1
+Pathways in cancer	LAMC3	1
+Pathways in cancer	GSTP1	1
+Pathways in cancer	PLEKHG5	1
+Pathways in cancer	BDKRB2	1
+Pathways in cancer	EPAS1	1
