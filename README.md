@@ -2,7 +2,7 @@
 
 
 ## What is it?
-CREAM is an analytical framework for detecting co-regulated gene modules and performing subsequent analyses. This system contains three executable programs: ‘CREAM.jar’ is used to detect co-regulated gene modules from gene/protein expression data; and ‘CREAM_dcanalysis.jar’ and ‘CREAM_survival.jar’ are used to perform differential co-expression analysis and survival analysis on the resulting modules.
+CREAM (Correlation-based Regulatory Events and Modules) is a multi-interaction network framework for gene expression analysis. It enables users to construct multi-interaction networks from gene expression data using desired interactions, identifying functional modules within these networks, and extracting prognostic subnetworks for specific clinical outcomes. This system contains two executable programs: ‘CREAM Module Detection.jar’ for network construction and module detection and ‘CREAM Survival Analysis.jar’ for prognostic subnetwork identification.
 
 
 ## Software requirements
@@ -13,8 +13,8 @@ CREAM is an analytical framework for detecting co-regulated gene modules and per
 
 ## Running
 
-- Once Java is installed, to start CREAM in Microsoft Windows double click on CREAM.jar.  
-- Otherwise start CREAM from a command line while in the drem directory, enter the command: java -mx1024M  -jar CREAM.jar
+- Once Java is installed, to start CREAM in Microsoft Windows double click on ‘CREAM Module Detection.jar’ or ‘CREAM Survival Analysis.jar’.  
+- Otherwise start CREAM from a command line while in the drem directory, enter the command: java -mx1024M -jar CREAM Module Detection.jar (or CREAM Survival Analysis.jar)
 - If CREAM reports ‘Out of Memory Error’, the user can increase the -mx parameter.
 - A detailed description can be found in 'User manual.pdf'.
 
@@ -26,3 +26,4 @@ CREAM is an analytical framework for detecting co-regulated gene modules and per
 ##  License
 
 - This software product is developed by the National Center for Protein Sciences (Beijing)-Bioinformatics group. The software is distributed GPL v3.0 license. 
+
