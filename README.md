@@ -4,7 +4,7 @@
 ## What is it?
 CREAM (Correlation-based Regulatory Events and Modules) is a multi-interaction network framework for gene expression analysis. It enables users to construct multi-interaction networks from gene expression data using desired interactions, identifying functional modules within these networks, and extracting prognostic subnetworks for specific clinical outcomes. This system contains two executable programs: ‘CREAM Module Detection.jar’ for network construction and module detection and ‘CREAM Survival Analysis.jar’ for prognostic subnetwork identification.
 
-
+![](https://github.com/free1234hm/CREAM/blob/main/CREAM%20v.1.0/Schematic.png)
 ## Software requirements
 
 - Java 1.5 or later must be installed.  [Download link](http://www.java.com)
